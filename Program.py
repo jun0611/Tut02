@@ -1,5 +1,5 @@
-x = 1
-y = 6
+x = 100
+y = 600
 z = x + y
 print "This is x + y %d" %z
-print "This is our useful program"
+print "This is our useful program #1"
