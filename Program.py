@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 cat = 100
 dog = 600
 catdog = x + y
